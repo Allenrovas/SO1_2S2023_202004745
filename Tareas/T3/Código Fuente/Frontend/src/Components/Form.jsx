@@ -1,11 +1,23 @@
 import React from "react";
 import Input from './Input'
+import Service from '../Services/Service'
 
 function Form() {
     const [title, setTitle] = React.useState("");
     const [artist, setArtist] = React.useState("");
-    const [year, setYear] = React.useState("");
+    const [year, setYear] = React.useState(0);
     const [genre, setGenre] = React.useState("");
+    //Lista
+    const [lista, setLista] = React.useState([]);
+
+    //Cargar lista al iniciar
+    React.useEffect(() => {
+        Service.discos()
+        .then((response) => {
+            console.log(response);
+            setLista(response);
+          })
+    }, []);
 
     const changeTitle = (text) => {
         setTitle(text);
@@ -34,14 +46,32 @@ function Form() {
         if(title === "" || artist === "" || year === "" || genre === ""){
             alert("No se pueden dejar campos vacíos");
         }else{
-            Service.ingreso(title, artist, year, genre)
-            .then((res) => {
-                if(res.status === 200){
-                    alert("Canción ingresada correctamente");
+            Service.registro(title, artist, year, genre)
+            .then((response) => {
+                console.log(response);
+                console.log(response.mensaje);
+                if(response.mensaje == "Registro Exitoso"){
+                    console.log("Registro exitoso");
+                    //Cargar tabla
+                    //Vaciar campos
+                    setArtist("");
+                    setTitle("");
+                    setYear(0);
+                    setGenre("");
+                    //Vaciar lista y volver a cargar
+                    setLista([]);
+                    Service.discos()
+                    .then((response) => {
+                        console.log(response);
+                        setLista(response);
+                      })
+
                 }else{
-                    alert("Error al ingresar canción");
+                    alert("Registro fallido");
+                    
                 }
-            })
+              
+              })
         }
     }
 
@@ -95,7 +125,15 @@ function Form() {
                         </tr>
                     </thead>
                     <tbody class="table-group-divider" style={colorBlanco}>
-                        
+                    {lista.map((disco) => (
+                        <tr key={disco.id}>
+                        <th scope="row">{disco.id}</th>
+                        <td>{disco.title}</td>
+                        <td>{disco.artist}</td>
+                        <td>{disco.yearR}</td>
+                        <td>{disco.genre}</td>
+                        </tr>
+                    ))}
                     </tbody>
                 </table>
 
