@@ -4,4 +4,4 @@
 
 ### **Vídeo de Youtube**
 
-[Ver el vídeo en YouTube]([URL_DEL_VÍDEO](https://youtu.be/wHrWELSiSh0))
+[Ver el vídeo en YouTube](https://youtu.be/wHrWELSiSh0)
