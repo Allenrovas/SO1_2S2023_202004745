@@ -1,0 +1,7 @@
+version: '3'
+services:
+  backend:
+    image: "tarea4_modulo_ram"
+    container_name: 'Backend_Go_Tarea4'
+    ports:
+      - "8000:8000"
