@@ -4,27 +4,30 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"log"
+	"math"
 	"net/http"
 	"os/exec"
 	"time"
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
+	"github.com/shirou/gopsutil/cpu"
 )
 
 type Process struct {
 	Pid     int    `json:"pid"`
 	Nombre  string `json:"nombre"`
-	Usuario string `json:"usuario"`
-	Estado  string `json:"estado"`
+	Usuario int    `json:"usuario"`
+	Estado  int    `json:"estado"`
 	Ram     int    `json:"ram"`
 	Padre   int    `json:"padre"`
 }
 
 type Cpu struct {
 	Porcentaje int       `json:"Porcentaje_en_uso"`
-	Procesos   []Process `json:"procesos"`
+	Procesos   []Process `json:"tasks"`
 }
 
 type Ram struct {
@@ -32,6 +35,10 @@ type Ram struct {
 	En_uso     int `json:"Ram_en_Uso"`
 	Libre      int `json:"Ram_libre"`
 	Porcentaje int `json:"Porcentaje_en_uso"`
+}
+
+type Ip struct {
+	Ip string `json:"ip"`
 }
 
 type KillRespuesta struct {
@@ -70,7 +77,7 @@ func KillProcess(w http.ResponseWriter, r *http.Request) {
 
 // postScheduledData
 func postScheduledData() {
-	ticker := time.NewTicker(5 * time.Second)
+	ticker := time.NewTicker(1 * time.Second)
 	defer ticker.Stop()
 
 	for {
@@ -92,18 +99,30 @@ func postScheduledData() {
 			if err != nil {
 				fmt.Println(err)
 			}
-
 			//Mandar respuesta
-			url := "http://localhost:3001/cpu"
+			url := "http://localhost:8000/cpu"
 			//Mandar cpu_info que es un json
+			p_cpu, err := cpu.Percent(time.Second, false)
+			if err != nil {
+				fmt.Println(err)
+			}
+			cpu_info.Porcentaje = int(math.Round(p_cpu[0]))
 			jsonValue, _ := json.Marshal(cpu_info)
 			//Mandar el json a la url
 			resp, err := http.Post(url, "application/json", bytes.NewBuffer(jsonValue))
 			if err != nil {
 				fmt.Println(err)
+			} else {
+				defer resp.Body.Close()
+				responseBody, err := ioutil.ReadAll(resp.Body)
+				if err != nil {
+					fmt.Println(err)
+				} else {
+					// Imprimir el contenido del mensaje enviado desde el servidor
+					fmt.Println("\x1b[32m" + string(responseBody) + "\x1b[0m")
+				}
 			}
-			fmt.Println(resp)
-
+			fmt.Println(" ")
 			fmt.Println(" ==================== DATOS MODULO RAM ==================== ")
 			fmt.Println(" ")
 
@@ -121,15 +140,24 @@ func postScheduledData() {
 			}
 
 			//Mandar respuesta
-			url = "http://localhost:3001/ram"
+			url = "http://localhost:8000/ram"
 			//Mandar ram_info que es un json
 			jsonValue, _ = json.Marshal(ram_info)
 			//Mandar el json a la url
 			resp, err = http.Post(url, "application/json", bytes.NewBuffer(jsonValue))
 			if err != nil {
 				fmt.Println(err)
+			} else {
+				defer resp.Body.Close()
+				responseBody, err := ioutil.ReadAll(resp.Body)
+				if err != nil {
+					fmt.Println(err)
+				} else {
+					// Imprimir el contenido del mensaje enviado desde el servidor
+					fmt.Println("\x1b[32m" + string(responseBody) + "\x1b[0m")
+				}
 			}
-			fmt.Println(resp)
+			fmt.Println(" ")
 
 		}
 	}
@@ -152,6 +180,6 @@ func main() {
 
 	// Server
 	fmt.Println("Server running on port 3000")
-	log.Fatal(http.ListenAndServe(":3000", handlers.CORS(headers, methods, origins)(router)))
+	log.Fatal(http.ListenAndServe(":5200", handlers.CORS(headers, methods, origins)(router)))
 
 }

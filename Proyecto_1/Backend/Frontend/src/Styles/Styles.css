@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color: #ffffff;
+  }
+
+h2 {
+text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+    
+    }
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+.custom-select {
+    width: 50%; /* Para que ocupe todo el ancho disponible */
+    font-size: 16px; /* Tamaño de la letra */
+    text-align: center; /* Para centrar el texto horizontalmente */
+    padding: 10px; /* Espaciado interno (padding) */
+    margin-left: auto;
+    margin-right: auto;
+  }
+/* Estilos para centrar el ComboBox en la pantalla */
+.centered {
+    display: block; /* Hace que el elemento sea un bloque */
+    margin: 0 auto; /* Centra horizontalmente en relación al padre */
+  }
+
+.container {
+display: flex;
+align-items: center; /* Centrar verticalmente */
+justify-content: center; /* Centrar horizontalmente */
+margin-top: 20px;
+}
+
+  
