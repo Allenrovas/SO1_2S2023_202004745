@@ -43,4 +43,18 @@ justify-content: center; /* Centrar horizontalmente */
 margin-top: 20px;
 }
 
+td {
+  text-align: center;
+  border: #b2b2b2 1px solid;
+}
+table {
+  border: #b2b2b2 1px solid;
+}
+table tr.desplegado {
+  background-color: #65727e;
+}
+
+table tr.desplegado td {
+  padding-left: 1em;
+}
   

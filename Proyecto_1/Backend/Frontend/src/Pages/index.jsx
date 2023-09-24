@@ -4,11 +4,13 @@ import "../Styles/Styles.css"
 import Service from '../Services/Service'
 import Chart from 'chart.js/auto'; // Importa Chart.js
 import Input from '../Components/Input';
+import TablaProcesos from '../Components/Procesos';
 
 
 function Index() {
   const [ips, setIps] = React.useState([]);
-  const [monitoreo, setMonitoreo] = React.useState([]);
+  const [procesosPc, setProcesosPc] = React.useState([]);
+  const [totalMbRam, setTotalMbRam] = React.useState(0);
   const [selectedIp, setSelectedIp] = useState("");
   const cpuChart = useRef(null);
   const ramChart = useRef(null);
@@ -21,17 +23,20 @@ function Index() {
 
     const getIps = async () => {
       try {
-        const response = await Service.ips();
+        const response = await Service.monitoreo();
         const ipArray = response.monitoreo.map((item) => item.ip);
         // Verificar si la dirección IP seleccionada está en la lista actual
         const isIpSelectedValid = ipArray.includes(selectedIp);
-        console.log(response)
         setIps(ipArray)
   
         // Si la dirección IP seleccionada está en la lista, seleccionarla nuevamente
         if (isIpSelectedValid) {
           console.log("Actualizando gráficas");
           setSelectedIp(selectedIp);
+          //Setear procesos de la ip seleccionada
+          const selectedIpData = response.monitoreo.find((item) => item.ip === selectedIp);
+          setTotalMbRam(parseInt(selectedIpData.ram.Total_Ram));
+          setProcesosPc(selectedIpData.cpu.tasks);
           updateCharts(selectedIp,response);
         }
 
@@ -162,8 +167,26 @@ function Index() {
   const buscarClick = () => {
     //Verificar que sea int
     if (isNaN(buscar)) {
-      alert("Ingrese un número entero");
+      alert("Ingrese un número entero para el PID");
       return;
+    }else{
+      //Verificar que el pid exista
+      let existe = false;
+      procesosPc.forEach(element => {
+        if(element.pid == buscar){
+          existe = true;
+        }
+      });
+      if(!existe){
+        alert("PID no encontrado");
+        return;
+      }else{
+        //Llamar al servicio
+        Service.kill(selectedIp,buscar).then((response) => {
+          console.log(response);
+          alert(response.mensaje);
+        });
+      }
     }
   }
 
@@ -172,8 +195,6 @@ function Index() {
   }
 
  
-
-
   return (
     <>
     <NavBar/>
@@ -203,10 +224,21 @@ function Index() {
         </div>
         )}
     </div>
-    <div class ="container" >
-          <h1>PID</h1>
-          <Input text={"Buscar"} type={"text"} handlerChange = {changeBuscar} id={"floatingBuscar"}/>
-          <button type="button" class="btn btn-primary" onClick={buscarClick}>Ingresar</button>
+    
+          { selectedIp && (
+          <div class ="container" >
+            <h1>PID</h1>
+            <Input text={"Buscar"} type={"text"} handlerChange = {changeBuscar} id={"floatingBuscar"}/>
+            <button type="button" class="btn btn-danger" style={{ width: '10%' }} onClick={buscarClick}>Kill</button>
+
+          </div>
+          )
+          }
+    <div>
+      {
+      procesosPc.length > 0 && selectedIp && (
+        <TablaProcesos procesosPc={procesosPc} totalMbRam = {totalMbRam} />
+      )}
     </div>
     
 

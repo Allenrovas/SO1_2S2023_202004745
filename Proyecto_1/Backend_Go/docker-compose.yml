@@ -1,9 +1,12 @@
 version: '3'
 services:
   backend:
-    image: "proyecto1_monitoreo"
+    image: proyecto1_monitoreo
     container_name: 'Backend_Go_Pr1'
     restart: always
     volumes:
       - /proc:/proc
       - /etc/passwd:/etc/passwd
+    pid: host
+    user: root
+    privileged: true

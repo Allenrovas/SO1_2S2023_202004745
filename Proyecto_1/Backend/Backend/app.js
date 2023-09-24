@@ -3,10 +3,12 @@ const app = express();
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const port = 8000;
+const axios = require('axios');
 
-const mysql = require('mysql');
+const { createPool } = require('mysql2/promise');
 
-const connection = mysql.createConnection({
+/*
+const pool = createPool({
   host: 'localhost',
   user: 'root',
   password: 'root',
@@ -14,13 +16,8 @@ const connection = mysql.createConnection({
   port: 3306
 });
 
-connection.connect((error) => {
-  if (error) {
-    console.error('Error de conexión: ' + error.stack);
-    return;
-  }
-  console.log('Conectado a la base de datos MySQL.');
-});
+
+});*/
 
 app.get('/', (req, res) => {
   res.send('¡Hola, mundo!');
@@ -39,7 +36,7 @@ var historicoPc = [];
 var historicoCpu = [];
 var historicoRam = [];
 
-app.post('/cpu' , (req, res) => {
+app.post('/cpu' , async(req, res) => {
   cpuData = req.body;
   // Obtener ip del cliente
   const ipAddress = req.header('x-forwarded-for')  || req.socket.remoteAddress;
@@ -82,12 +79,14 @@ app.post('/cpu' , (req, res) => {
   }
 
   //Guardar el porcentaje de uso de CPU en la base de datos
+  //const query = await pool.query('INSERT INTO cpu_historico (uso, ip, fecha) VALUES (?, ?, NOW())', [cpuData.Porcentaje_en_uso, ipAddress]);
+  //console.log(query);
 
   res.send('Datos recibidos CPU');
 
 }); 
 
-app.post('/ram', (req, res) => {
+app.post('/ram', async(req, res) => {
   ramData = req.body;
   // Obtener ip del cliente
   const ipAddress = req.header('x-forwarded-for')  || req.socket.remoteAddress;
@@ -130,6 +129,8 @@ app.post('/ram', (req, res) => {
   }
 
   //Guardar el porcentaje de uso de RAM en la base de datos
+  //const query = await pool.query('INSERT INTO ram_historico (uso, ip, fecha) VALUES (?, ?, NOW())', [ramData.Porcentaje_en_uso, ipAddress]);
+  //console.log(query);
 
   res.send('Datos recibidos RAM');
 });
@@ -157,6 +158,45 @@ app.get('/monitoreo', (req, res) => {
   }
   //Mandar en formato json
   res.json({monitoreo: listaMonitoreo});
+});
+
+app.get('/ips', (req, res) => {
+  console.log('Petición GET recibida');
+  //Meter los datos de CPU y RAM en un arreglo
+  var listaIps = [];
+  if (listaPc.length > 0) {
+    for (var i = 0; i < listaPc.length; i++) {
+      listaIps.push(listaPc[i].ip);
+    } 
+  }else{
+    for (var i = 0; i < historicoPc.length; i++) {
+      listaIps.push(historicoPc[i].ip);
+    }
+  }
+  //Mandar en formato json
+  res.json({ips: listaIps});
+});
+
+
+app.post('/kill', (req, res) => {
+  serviceKill = req.body;
+  console.log(`IP: ${serviceKill.ip} - Servicio: ${serviceKill.pid}`);
+  // Hacer el kill del proceso en la IP indicada
+  // Pasar a IPv4
+
+  axios.post(`http://172.20.0.2:5200/kill/${serviceKill.pid}`)
+    .then((respuesta) => {
+      // Sacar el atributo respuesta del JSON
+      const response = respuesta.data.respuesta;
+
+      // Enviar la respuesta JSON al cliente dentro de la promesa
+      res.json({ mensaje: response });
+    })
+    .catch((error) => {
+      // Manejo de errores si la solicitud Axios falla
+      console.error(error);
+      res.status(500).json({ mensaje: 'Error en la solicitud HTTP' });
+    });
 });
 
 // Intervalo para vaciar las listas cada 10 segundos

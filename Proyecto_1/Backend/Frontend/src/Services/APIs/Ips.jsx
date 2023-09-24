@@ -8,7 +8,7 @@ const instance = axios.create({
     }
 });
 
-export const ips = async () => {
+export const monitoreo = async () => {
     const {data} = await instance.get('/monitoreo');
     return data;
 }

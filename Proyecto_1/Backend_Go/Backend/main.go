@@ -53,7 +53,7 @@ func Index(w http.ResponseWriter, r *http.Request) {
 // KillProcess
 func KillProcess(w http.ResponseWriter, r *http.Request) {
 
-	fmt.Println(" ==================== KILL PROCESS ==================== ")
+	fmt.Println("\x1b[31m ==================== KILL PROCESS ==================== \x1b[0m")
 	fmt.Println(" ")
 
 	vars := mux.Vars(r)
@@ -62,7 +62,7 @@ func KillProcess(w http.ResponseWriter, r *http.Request) {
 	cmdKill := exec.Command("sh", "-c", "kill -9 "+pid)
 	outKill, err := cmdKill.CombinedOutput()
 	var kill_info KillRespuesta
-	kill_info.Respuesta = "Proceso eliminado con PID: " + pid + ""
+	kill_info.Respuesta = "Proceso eliminado con PID: " + pid
 	if err != nil {
 		fmt.Println(err)
 		kill_info.Respuesta = "Error al eliminar proceso con PID: " + pid + ""
@@ -100,7 +100,7 @@ func postScheduledData() {
 				fmt.Println(err)
 			}
 			//Mandar respuesta
-			url := "http://localhost:8000/cpu"
+			url := "http://192.168.0.5:8000/cpu"
 			//Mandar cpu_info que es un json
 			p_cpu, err := cpu.Percent(time.Second, false)
 			if err != nil {
@@ -140,7 +140,7 @@ func postScheduledData() {
 			}
 
 			//Mandar respuesta
-			url = "http://localhost:8000/ram"
+			url = "http://192.168.0.5:8000/ram"
 			//Mandar ram_info que es un json
 			jsonValue, _ = json.Marshal(ram_info)
 			//Mandar el json a la url
@@ -179,7 +179,7 @@ func main() {
 	origins := handlers.AllowedOrigins([]string{"*"})
 
 	// Server
-	fmt.Println("Server running on port 3000")
+	fmt.Println("Server running on port 5200")
 	log.Fatal(http.ListenAndServe(":5200", handlers.CORS(headers, methods, origins)(router)))
 
 }

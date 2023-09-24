@@ -1,9 +1,22 @@
-FROM golang:1.20.3-alpine
+FROM golang:alpine AS build
+
+RUN apk add --no-cache git
 
 WORKDIR /app
 
+COPY go.mod go.sum ./
+RUN go mod download
+
 COPY . .
 
-RUN go build -o main .
+RUN go build -o my-app
 
-CMD ["./main"]
+FROM alpine:latest
+
+WORKDIR /app
+
+COPY --from=build /app/my-app ./
+
+ENTRYPOINT ["./my-app"]
+
+EXPOSE 5200

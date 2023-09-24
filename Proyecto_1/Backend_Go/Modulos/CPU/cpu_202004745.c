@@ -74,15 +74,9 @@ static int escribir_archivo(struct seq_file *archivo, void *v)
             seq_printf(archivo, "\"nombre\": \"%s\",\n", cpu_task->comm);
             seq_printf(archivo, "\"usuario\": %d,\n", cpu_task->cred->uid.val);
             seq_printf(archivo, "\"estado\": %d,\n", cpu_task->__state);
-            if (cpu_task->mm != NULL)
+            if (cpu_task->mm)
             {
-                struct sysinfo info;
-                long total_memoria;
-                si_meminfo(&info);
-                total_memoria = (info.totalram * info.mem_unit)/(1024*1024);
                 ram = (get_mm_rss(cpu_task->mm)<<PAGE_SHIFT)/(1024*1024); // MB
-                //Porcentaje de la memoria
-                ram = ram * 100 / total_memoria;
                 seq_printf(archivo, "\"ram\": %d,\n", ram);
             }
             seq_printf(archivo, "\"padre\": %d\n", cpu_task->parent->pid);
