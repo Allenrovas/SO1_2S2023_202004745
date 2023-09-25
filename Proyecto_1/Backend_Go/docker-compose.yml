@@ -5,8 +5,13 @@ services:
     container_name: 'Backend_Go_Pr1'
     restart: always
     volumes:
+      - type: bind
+        source: /proc
+        target: /proc
       - /proc:/proc
       - /etc/passwd:/etc/passwd
     pid: host
     user: root
     privileged: true
+    ports:
+      - '5200:5200'
