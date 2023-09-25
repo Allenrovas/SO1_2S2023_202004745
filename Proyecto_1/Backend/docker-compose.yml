@@ -3,30 +3,32 @@ version: '3'
 services:
   base:
       image: "mysql"
-      container_name: 'MYSQL_Base'
+      container_name: 'MYSQL_Base_SO1'
       environment:
         MYSQL_ROOT_PASSWORD: secret
       volumes:
         - base_mysql:/var/lib/mysql      
       ports:
         - "3306:3306"
+      restart: always
   backend:
-    image: 'app_node'
-    container_name: 'backend_node_pr1so1'
+    image: "backend_pr1"
+    container_name: 'Backend_Node_Pr1'
     environment:
-      SECRET_ACCESS_KEY_COG: 'FFF'
       DB_USER: root
       DB_PASSWORD: secret
-      DB_HOST: MYSQL_Base
+      DB_HOST: MYSQL_Base_SO1
       DB_PORT: 3306
       DB_NAME: pr1_so1
     ports:
       - "8000:8000"
     restart: always
-  
   frontend:
-    image: 'app_react'
-    container_name: 'frontend_vmnode_pr1so1'
+    image: "frontend_pr1"
+    container_name: 'Frontend_React_Pr1'
     ports:
-      - '5137:5137'
+      - "5173:5173"
     restart: always
+volumes:
+  base_mysql: 
+  

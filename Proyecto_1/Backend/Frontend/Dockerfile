@@ -1,12 +1,16 @@
-FROM node:alpine
+FROM node:18-alpine
 
-WORKDIR /app
+WORKDIR /Frontend
 
-COPY package*.json .
-RUN npm i
+COPY package.json .
+COPY package-lock.json .
+
+RUN npm install
+
 COPY . .
+
 RUN npm run build
 
 EXPOSE 5173
 
-CMD ["npm", "run", "dev"]
+CMD ["npm", "run", "dev", "--", "--host"]

@@ -8,7 +8,7 @@ const instance = axios.create({
     }
 });
 
-export const ips = async () => {
-    const {data} = await instance.get('/ips');
+export const historico = async (selectedIp) => {
+    const {data} = await instance.get('/historico/'+selectedIp);
     return data;
 }

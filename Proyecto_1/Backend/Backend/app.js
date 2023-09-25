@@ -4,20 +4,33 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const port = 8000;
 const axios = require('axios');
-
 const { createPool } = require('mysql2/promise');
+const dotenv = require('dotenv');
 
-/*
+dotenv.config();
+
+
 const pool = createPool({
-  host: 'localhost',
-  user: 'root',
-  password: 'root',
-  database: 'pr1_so1',
-  port: 3306
+  host: process.env.DB_HOST,
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  database: process.env.DB_NAME,
+  port: process.env.DB_PORT
 });
 
+//Crear tablas en la base de datos si no existen
 
-});*/
+const createTable = async () => {
+  const query = await pool.query('CREATE TABLE IF NOT EXISTS ram_historico (id_ram INT AUTO_INCREMENT PRIMARY KEY,uso INT NOT NULL,ip VARCHAR(50) NOT NULL,fecha DATETIME NOT NULL);');
+  console.log(query);
+  const query2 = await pool.query('CREATE TABLE IF NOT EXISTS cpu_historico (id_cpu INT AUTO_INCREMENT PRIMARY KEY,uso INT NOT NULL,ip VARCHAR(50) NOT NULL,fecha DATETIME NOT NULL);');
+  console.log(query2);
+}
+
+createTable();
+
+  
+
 
 app.get('/', (req, res) => {
   res.send('¡Hola, mundo!');
@@ -79,8 +92,8 @@ app.post('/cpu' , async(req, res) => {
   }
 
   //Guardar el porcentaje de uso de CPU en la base de datos
-  //const query = await pool.query('INSERT INTO cpu_historico (uso, ip, fecha) VALUES (?, ?, NOW())', [cpuData.Porcentaje_en_uso, ipAddress]);
-  //console.log(query);
+  await pool.query('INSERT INTO cpu_historico (uso, ip, fecha) VALUES (?, ?, NOW())', [cpuData.Porcentaje_en_uso, ipAddress]);
+  
 
   res.send('Datos recibidos CPU');
 
@@ -129,8 +142,7 @@ app.post('/ram', async(req, res) => {
   }
 
   //Guardar el porcentaje de uso de RAM en la base de datos
-  //const query = await pool.query('INSERT INTO ram_historico (uso, ip, fecha) VALUES (?, ?, NOW())', [ramData.Porcentaje_en_uso, ipAddress]);
-  //console.log(query);
+  await pool.query('INSERT INTO ram_historico (uso, ip, fecha) VALUES (?, ?, NOW())', [ramData.Porcentaje_en_uso, ipAddress]);
 
   res.send('Datos recibidos RAM');
 });
@@ -175,6 +187,8 @@ app.get('/ips', (req, res) => {
   }
   //Mandar en formato json
   res.json({ips: listaIps});
+
+
 });
 
 
@@ -183,8 +197,8 @@ app.post('/kill', (req, res) => {
   console.log(`IP: ${serviceKill.ip} - Servicio: ${serviceKill.pid}`);
   // Hacer el kill del proceso en la IP indicada
   // Pasar a IPv4
-
-  axios.post(`http://172.20.0.2:5200/kill/${serviceKill.pid}`)
+  //172.20.0.2:5200/kill/${serviceKill.pid}`)
+  axios.post(`http://${serviceKill.ip}:5200/kill/${serviceKill.pid}`)
     .then((respuesta) => {
       // Sacar el atributo respuesta del JSON
       const response = respuesta.data.respuesta;
@@ -199,11 +213,22 @@ app.post('/kill', (req, res) => {
     });
 });
 
+app.get('/historico/:ip', async(req, res) => {
+  const ipAddress = req.params.ip;
+  console.log(`IP: ${ipAddress}`);
+  // Obtener el historico de uso de CPU y RAM de la ip indicada
+  const query = await pool.query('SELECT uso, fecha FROM cpu_historico WHERE ip = ? ', [ipAddress]);
+  const query2 = await pool.query('SELECT uso, fecha FROM ram_historico WHERE ip = ?', [ipAddress]);
+  //Mandar en formato json
+  res.json({cpu: query[0], ram: query2[0]});
+});
+
+
+
+
 // Intervalo para vaciar las listas cada 10 segundos
 setInterval(() => {
   
-    
-
   // Vaciar las listas principales
   listaPc = [];
   listaCpu = [];
