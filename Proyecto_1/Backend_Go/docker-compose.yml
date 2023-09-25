@@ -1,7 +1,7 @@
 version: '3'
 services:
   backend:
-    image: proyecto1_monitoreo
+    image: 'allenrovas/proyecto1_monitoreo'
     container_name: 'Backend_Go_Pr1'
     restart: always
     volumes:

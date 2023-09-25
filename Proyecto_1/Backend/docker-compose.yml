@@ -12,7 +12,7 @@ services:
         - "3306:3306"
       restart: always
   backend:
-    image: "backend_pr1"
+    image: 'allenrovas/backend_pr1'
     container_name: 'Backend_Node_Pr1'
     environment:
       DB_USER: root
@@ -24,7 +24,7 @@ services:
       - "8000:8000"
     restart: always
   frontend:
-    image: "frontend_pr1"
+    image: 'allenrovas/frontend_pr1'
     container_name: 'Frontend_React_Pr1'
     ports:
       - "5173:5173"

@@ -52,7 +52,10 @@ var historicoRam = [];
 app.post('/cpu' , async(req, res) => {
   cpuData = req.body;
   // Obtener ip del cliente
-  const ipAddress = req.header('x-forwarded-for')  || req.socket.remoteAddress;
+  let ipAddress = req.header('x-forwarded-for')  || req.socket.remoteAddress;
+  if (ipAddress.substr(0, 7) == "::ffff:") {
+    ipAddress = ipAddress.substr(7)
+  }
   console.log(`IP: ${ipAddress} - CPU: ${cpuData}`);
   console.log(`Porcentaje de uso de CPU: ${cpuData.Porcentaje_en_uso}`);
   //Verificar si la ip ya existe en la lista y guardarla si no existe, además guardar la posición en la que se encuentra
@@ -102,7 +105,10 @@ app.post('/cpu' , async(req, res) => {
 app.post('/ram', async(req, res) => {
   ramData = req.body;
   // Obtener ip del cliente
-  const ipAddress = req.header('x-forwarded-for')  || req.socket.remoteAddress;
+  let ipAddress = req.header('x-forwarded-for')  || req.socket.remoteAddress;
+  if (ipAddress.substr(0, 7) == "::ffff:") {
+    ipAddress = ipAddress.substr(7)
+  }
   console.log(`IP: ${ipAddress} - RAM: ${ramData}`);
   console.log(`Porcentaje de uso de RAM: ${ramData.Porcentaje_en_uso}`);
   //Verificar si la ip ya existe en la lista y guardarla si no existe, además guardar la posición en la que se encuentra

@@ -100,7 +100,7 @@ func postScheduledData() {
 				fmt.Println(err)
 			}
 			//Mandar respuesta
-			url := "http://192.168.0.5:8000/cpu"
+			url := "http://34.74.125.199:8000/cpu"
 			//Mandar cpu_info que es un json
 			p_cpu, err := cpu.Percent(time.Second, false)
 			if err != nil {
@@ -140,7 +140,7 @@ func postScheduledData() {
 			}
 
 			//Mandar respuesta
-			url = "http://192.168.0.5:8000/ram"
+			url = "http://34.74.125.199:8000/ram"
 			//Mandar ram_info que es un json
 			jsonValue, _ = json.Marshal(ram_info)
 			//Mandar el json a la url
