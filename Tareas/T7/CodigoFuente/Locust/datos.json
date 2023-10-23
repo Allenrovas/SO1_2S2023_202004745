@@ -1,0 +1,8002 @@
+[
+    {
+        "Carnet": 202089661,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201957457,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202380612,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202127148,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202264643,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202359999,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202238886,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202013190,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202284381,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202188076,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202392868,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202112678,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202241149,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202213876,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202076907,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202088043,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202091092,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202148533,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202327598,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202190016,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202373536,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202212320,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202026299,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202085220,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201919578,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202127224,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202284753,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202168884,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202280545,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202141259,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202184414,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202341984,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202362474,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202177737,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202088531,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202010011,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202049304,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202324098,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201976278,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202292994,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201939744,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201996934,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202014400,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201915999,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202239175,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202372381,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202016115,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202136989,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202333321,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202113105,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202098400,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201927908,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202184325,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202321645,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202137586,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201944819,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201957517,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202039941,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202398841,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202029299,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202084697,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202081835,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202219718,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202324752,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202283232,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202136085,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202015340,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202279941,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202225763,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202342005,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202020875,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202173563,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202088873,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202130344,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201980145,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202367242,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202023540,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202146580,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202130290,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202385720,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202348988,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202156021,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202038199,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202016449,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202043607,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202340484,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202167543,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202230666,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201957784,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202053841,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202272664,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202299691,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201990033,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201971084,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202013246,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201981130,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201922693,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202063747,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201924845,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202341934,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201945142,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202364489,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202361850,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202128488,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202225766,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202187404,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202198615,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202396108,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202160053,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201991877,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202349487,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202251160,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202061418,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202212364,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201959191,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201958386,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202186973,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202098018,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202336099,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202282743,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202169969,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201968558,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201914808,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202393287,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202085653,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201919855,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201950129,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202147663,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202057466,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202258379,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202049191,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202117367,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202384849,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202318565,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202221912,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202149293,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201988378,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201911691,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202324904,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202146493,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202069029,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202096452,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202250331,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201989024,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202282081,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202230295,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202184185,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201918411,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201932701,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201945903,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202190573,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202355331,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201920594,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202193560,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202173743,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201978896,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202010298,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202051379,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202347793,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202265002,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202371930,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202363444,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202180992,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201910090,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202154406,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201935788,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202290033,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202274236,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202186031,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202118409,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202275106,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202289520,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202147470,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201992265,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202271331,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202253232,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202133910,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202359491,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202194658,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202088239,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202136862,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202169289,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202311776,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202068342,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202196797,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201970245,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202287461,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201938594,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202077826,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202071119,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201942522,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202239488,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202149719,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202219159,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202211039,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202080073,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202166362,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202240145,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202369396,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201968448,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202285546,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202013035,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202353561,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202367989,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202317293,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202078852,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201963828,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202149422,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202320530,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202236633,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202376130,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201959016,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202054993,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202241174,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202278940,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201953310,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202362336,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201991178,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202065982,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201983421,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202355232,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202019973,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201999768,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202019339,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202314812,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201958927,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201985352,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202074503,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201978783,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202190630,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202074721,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202368340,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202041740,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202077858,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202382187,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202389017,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202296497,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202012168,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202129878,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202379903,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202215243,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202387681,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201937441,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201982356,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202365911,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202315791,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202052090,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202379918,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202212401,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202232291,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202048298,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202190676,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202230716,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202347822,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202019947,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202387417,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202240635,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202190807,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201927301,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202172698,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201930064,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202149235,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202088669,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202346893,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202118621,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202365747,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202140204,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201924623,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202117812,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202340205,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202257980,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202258027,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202273272,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202288988,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202271162,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202220242,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201960685,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202232115,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201940875,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202238686,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201962177,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201940694,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202124048,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201993784,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202246742,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202271696,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201942761,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202310067,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201913648,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202250625,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202138591,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202372346,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202322538,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201978608,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202349292,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202052792,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202143523,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201976267,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202285052,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202256291,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202386987,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202138253,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202165627,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202048164,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202177233,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201946703,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202246118,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202068029,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202268282,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202262332,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202141839,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202057831,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202210759,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201931621,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201945564,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202044133,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202259721,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202037296,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202068132,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201942681,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202329216,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202170336,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202180954,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202041734,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202054806,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202261972,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202369520,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202249927,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202372392,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202272238,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202229780,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202331552,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202141205,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202162058,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202070158,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202095056,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202154450,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202262744,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201942844,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202377047,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202315651,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202380725,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202375877,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202249280,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202170327,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202043437,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202078913,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201918886,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202061065,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202125324,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202078500,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202129257,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201963512,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202359133,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202329069,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202335520,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202212151,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202049124,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201952716,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201993249,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202190998,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202257153,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202225523,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202285567,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202264657,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202129401,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202146252,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202062206,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201914472,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202237740,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202080405,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202272193,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201920989,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201992866,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202313845,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202032890,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202384435,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202018259,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202068389,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201969846,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202188726,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202083800,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202059859,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202191826,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201992960,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202111341,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202148579,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201986672,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202191170,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201972367,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202180685,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202021255,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201971208,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202250889,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202153702,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202078407,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202032628,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202086261,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202146444,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202323027,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202338941,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202331374,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202326455,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202389847,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202186139,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202237537,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202364160,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201953426,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202227360,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202328623,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202176249,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202117250,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202215066,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202164049,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202327178,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202112135,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202227432,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201917309,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202262611,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202055086,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202250413,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201986248,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202129302,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202153870,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201983677,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202213465,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202137619,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202350503,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201967740,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202162478,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202136020,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202120619,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202258837,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201979090,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201990823,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202253249,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202131560,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202094306,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202092461,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201989456,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202316987,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201917812,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202086685,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202269068,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202030654,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202074100,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202355793,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202191778,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202365946,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202273841,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202344697,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202166945,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202351310,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202393267,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201943237,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202171553,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202084524,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201972462,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202044003,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202224386,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202259518,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201976979,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201922713,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202365470,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202117244,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202322221,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202372174,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202369096,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202337293,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202112246,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201981106,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202155708,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202382955,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202189620,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202157209,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202325096,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201981640,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202099034,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202381112,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202070126,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202195170,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202143592,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201955687,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202037249,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201965370,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202034867,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202249059,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202366668,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202298902,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202175123,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202228007,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202259904,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202231035,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201989688,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202278895,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202072271,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202111160,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202055700,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202355139,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202115788,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202127161,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202395393,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202026456,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202238822,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202149048,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202333219,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202331786,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202023937,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202094291,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201961279,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202049569,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202275849,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202090496,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202011626,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201951172,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202394840,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202329326,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202119629,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202083651,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202144522,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202237275,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202267755,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202353677,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202168117,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202283882,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202036836,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201950004,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202027040,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202398240,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202119028,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202281422,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201968155,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202377875,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202327221,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202265262,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202194983,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202028064,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201987660,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202282512,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202014576,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202033792,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201978328,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201959014,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202182641,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201998216,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202264541,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202026291,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202043767,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202386690,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202319790,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201982946,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202067050,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202231043,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202129870,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202133927,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201943224,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202124303,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201946309,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201967883,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202159051,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201984190,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201991140,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202273741,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202319688,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202381040,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202271948,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202231862,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202052559,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202235066,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202218365,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201988197,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202038967,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201930404,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202295657,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201922927,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202327006,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202147884,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202124898,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201915484,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202360548,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201990623,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202211726,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202133244,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202189125,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201931141,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202320110,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202034317,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202124325,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201981118,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201984624,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201952043,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202234747,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202152611,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201983584,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202130215,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202139380,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201963149,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201985646,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202192835,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202276722,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202289388,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202315277,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202084375,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202129905,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202051752,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201995488,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201915026,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202023025,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202036776,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202066863,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202210879,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202125469,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202275236,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202364421,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202084151,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201997846,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202352868,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202095811,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201979446,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202288457,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201965871,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202168618,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202329057,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202228641,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202297536,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202337353,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202174963,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202372804,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202061857,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202296372,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202292439,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201932928,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201928325,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202026240,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202277610,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202028332,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202174850,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202376749,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202282786,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202357052,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202074192,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201941247,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202239164,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202363119,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202383970,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202031339,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202183473,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202361531,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202380513,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202142295,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202113762,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202227464,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202156727,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202047460,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202021982,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202213768,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202219582,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202314724,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202382390,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202310764,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202064657,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202362107,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202316723,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201992132,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202126367,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201986347,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202048838,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201941275,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202336418,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202126578,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201916312,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202326646,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202333005,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201986465,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202032112,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202076325,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202274390,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202280260,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202089398,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202179923,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202228385,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202396818,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201931943,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202145498,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202110272,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201959656,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201991757,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202375134,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202314900,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202114652,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202188254,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202025894,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202237798,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202158296,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201983448,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201953659,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202298063,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202341009,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202087780,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202125719,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201941692,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201975608,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202159514,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202221387,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202311772,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202379255,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202054215,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202042148,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202366121,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202156719,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202367165,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202268286,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202143147,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201912583,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202183521,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202336776,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202189313,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202141254,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202355563,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202356378,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201972944,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202222845,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202389228,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201969850,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201930356,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202055662,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202278655,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202354080,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201946213,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202375685,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202223668,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202355918,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202264835,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201982805,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202252952,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201995590,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202333690,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202049850,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202279728,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202389014,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201957849,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202159625,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201952172,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202395889,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202324517,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202256949,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202168054,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202230687,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202254620,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201954143,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201936813,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202170026,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202393905,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202069564,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202222545,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202380673,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202070452,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202155685,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202149095,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202187403,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202090997,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202367341,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202269043,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202148797,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202251847,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202245193,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202299870,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202345375,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202320462,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202260080,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202259374,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202052590,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202255915,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201922050,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202384581,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202315732,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202071765,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202092686,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201913956,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202355679,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202325850,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202061526,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202195921,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202077048,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202182273,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202152660,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202235269,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202211157,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202044236,
+        "Nombre": "Laura",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202379180,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202066354,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202263677,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202393874,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202012019,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202034278,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202039574,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202092323,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202277386,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202038087,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202261558,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201991942,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202370706,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202121181,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202119655,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202232688,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202132654,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202292004,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202268098,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202391568,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201914090,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202186740,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202125932,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202270645,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202235465,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202358711,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202093407,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201976201,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202398896,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202093006,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202242436,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202042732,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202089002,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202199538,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202194784,
+        "Nombre": "Juan",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202299953,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201970770,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202241533,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202126945,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201978436,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202159421,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201934771,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202163264,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202242657,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202394616,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201991393,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202088315,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202136741,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202333806,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201979758,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202335724,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202328368,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202276585,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202288151,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201944048,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202257109,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202379814,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202247412,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202152443,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202183805,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201969139,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202021721,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202359604,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202212579,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202159661,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202315061,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202041370,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202027291,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202392142,
+        "Nombre": "Carlos",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202121332,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202371781,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202254492,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202278418,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202271805,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202295704,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201957843,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202229135,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202385366,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202347091,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202213383,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202291573,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202120638,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202261524,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202150786,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202077926,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202275960,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201945093,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202239938,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202064770,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201942183,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202070119,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202099224,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202222027,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201984999,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202010866,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202199436,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202138753,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202158860,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201998422,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202247383,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202027433,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202143579,
+        "Nombre": "Pedro",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201998271,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201913531,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202399657,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202334505,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202332732,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202166361,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202064503,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202394962,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202096867,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202373135,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202162798,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202142191,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202348804,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202381290,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201980337,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201925771,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201951495,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202138714,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201911955,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201920810,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202382400,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202350323,
+        "Nombre": "Luis",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202293687,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202154180,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202198087,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201979985,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201961749,
+        "Nombre": "Ana",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202316033,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201988487,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202324234,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201988385,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202054392,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202177396,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202374967,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201942238,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202255238,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202011629,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202053283,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202052279,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202086873,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202134645,
+        "Nombre": "Luis",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202313390,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201956271,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202047887,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202291802,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202273685,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202071334,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202258423,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201958468,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202198791,
+        "Nombre": "Juan",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201973523,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202399900,
+        "Nombre": "Maria",
+        "Curso": "SO1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202039321,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202289427,
+        "Nombre": "Ana",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202333406,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201973203,
+        "Nombre": "Carlos",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202295869,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202044667,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202381227,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202022418,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202364552,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202395611,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202088956,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202242982,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201927506,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202231784,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201986101,
+        "Nombre": "Sofia",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202298524,
+        "Nombre": "Juan",
+        "Curso": "LFP",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202150637,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202122241,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202284929,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202239190,
+        "Nombre": "Juan",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202258656,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202355864,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202064022,
+        "Nombre": "Ana",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202284095,
+        "Nombre": "Sofia",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202329614,
+        "Nombre": "Pedro",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202177945,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202188359,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202053940,
+        "Nombre": "Pedro",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202145935,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202049699,
+        "Nombre": "Ana",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202262426,
+        "Nombre": "Pedro",
+        "Curso": "SA",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202399541,
+        "Nombre": "Maria",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202264217,
+        "Nombre": "Sofia",
+        "Curso": "BD1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202165794,
+        "Nombre": "Juan",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202398070,
+        "Nombre": "Laura",
+        "Curso": "LFP",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202010254,
+        "Nombre": "Luis",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202076332,
+        "Nombre": "Carlos",
+        "Curso": "SO1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202257613,
+        "Nombre": "Carlos",
+        "Curso": "LFP",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201962550,
+        "Nombre": "Laura",
+        "Curso": "AYD1",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202186769,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202244418,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202275579,
+        "Nombre": "Sofia",
+        "Curso": "LFP",
+        "Nota": 90,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202013972,
+        "Nombre": "Maria",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202127931,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201959311,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 70,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202112385,
+        "Nombre": "Ana",
+        "Curso": "BD1",
+        "Nota": 90,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202222504,
+        "Nombre": "Pedro",
+        "Curso": "LFP",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202065878,
+        "Nombre": "Maria",
+        "Curso": "SA",
+        "Nota": 80,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201968308,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201949865,
+        "Nombre": "Maria",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202346039,
+        "Nombre": "Laura",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202290642,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 201914921,
+        "Nombre": "Luis",
+        "Curso": "SA",
+        "Nota": 50,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202027213,
+        "Nombre": "Laura",
+        "Curso": "SO1",
+        "Nota": 60,
+        "Semestre": "2S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202311412,
+        "Nombre": "Carlos",
+        "Curso": "BD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202284729,
+        "Nombre": "Luis",
+        "Curso": "AYD1",
+        "Nota": 100,
+        "Semestre": "1S",
+        "Year": 2023
+    },
+    {
+        "Carnet": 202388001,
+        "Nombre": "Sofia",
+        "Curso": "SO1",
+        "Nota": 80,
+        "Semestre": "1S",
+        "Year": 2023
+    }
+]
