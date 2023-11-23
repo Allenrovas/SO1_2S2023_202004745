@@ -3,7 +3,10 @@ import NavBar from '../Components/NavBar'
 import Horizontal from "../Components/HorizontalBar";
 import io from "socket.io-client";
 
-const socket = io("http://localhost:3001");
+const socket = io(`http://${import.meta.env.VITE_BACKEND_HOST}:${import.meta.env.VITE_BACKEND_PORT}`, {
+  transports: ["websocket"],
+}
+);
 
 
 
@@ -30,14 +33,19 @@ function Historial() {
   useEffect(() => {
     const handleGetNotasRedis = (data) => {
       setnotasRedis(data);
-      setLabelCantidadDatos('Cantidad de datos: ' + data.length);
+      //setLabelCantidadDatos('Cantidad de datos: ' + data.length);
     }
     socket.emit('getNotas');
     console.log("Evento getNotas emitido");
     socket.on('notasRedis', handleGetNotasRedis);
-
     return () => socket.off('notasRedis', handleGetNotasRedis);
+
+    
   }, []);
+
+  useEffect(() => {
+    setLabelCantidadDatos('Cantidad de datos: ' + notasRedis.length);
+  }, [notasRedis]);
 
 
   const handleSemestreChange = (e) => {
@@ -48,14 +56,14 @@ function Historial() {
   useEffect(() => {
     //Cursos vs Cantidad de estudiantes
     if (selectedSemestre) {
-      const NotasFiltradas = notasRedis.filter(nota => nota.Semestre === selectedSemestre);
+      const NotasFiltradas = notasRedis.filter(nota => nota.semestre === selectedSemestre);
 
       const cursosData = {};
       NotasFiltradas.forEach(nota => {
-        if (!cursosData[nota.Curso]) {
-          cursosData[nota.Curso] = {cantidad: 0};
+        if (!cursosData[nota.curso]) {
+          cursosData[nota.curso] = {cantidad: 0};
         }
-        cursosData[nota.Curso].cantidad++;
+        cursosData[nota.curso].cantidad++;
       });
 
       const NumeroCursos = Object.keys(cursosData).map(curso => ({curso, cantidad: cursosData[curso].cantidad}));
@@ -75,7 +83,7 @@ function Historial() {
       setCursosData(cursosAct);
       setCantidad(cantidadAct);
     }
-  }, [selectedSemestre]);
+  }, [notasRedis]);
 
   
   return (

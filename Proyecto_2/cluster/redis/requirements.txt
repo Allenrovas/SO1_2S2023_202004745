@@ -1,0 +1,6 @@
+flask
+simplejson
+redis
+flask-cors
+mysql-connector-python
+python-dotenv

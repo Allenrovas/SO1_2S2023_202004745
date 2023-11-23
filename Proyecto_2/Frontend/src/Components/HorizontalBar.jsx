@@ -22,8 +22,6 @@ ChartJS.register(
   );
 
 function Horizontal ({carnets,promedios}) {
-    console.log(carnets);
-    console.log(promedios);
     const dataChart = {
         labels: carnets.map(item => item),
         datasets : [

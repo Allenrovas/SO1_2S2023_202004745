@@ -1,12 +1,20 @@
 const Redis = require('ioredis');
 const express = require('express');
 const http = require('http');
-const socketIO = require('socket.io');
+const Server = require('socket.io');
 const mysql = require('mysql2');
+const cors = require('cors');
 
 const app = express();
+app.use(cors());
 const server = http.createServer(app);
-const io = socketIO(server);
+const io = Server(server
+    , {
+        cors: {
+            origin: '*'
+        }
+    }
+  );
 
 const redisClient = new Redis({
     host: process.env.REDIS_HOST || 'localhost',
@@ -23,7 +31,7 @@ const dbPool = mysql.createPool({
     connectionLimit: 10
 });
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8000;
 
 const sendNotasOfRedis = async () => {
     console.log('Enviando notas a clientes desde Redis');
@@ -62,27 +70,31 @@ const sendNotasOfMysql = () => {
   }
   
 
-
-
 io.on('connection', (socket) => {
     console.log('Cliente conectado');
 
     // Envía los datos al cliente cuando se conecta
     sendNotasOfRedis();
     sendNotasOfMysql();
+    
 
-    socket.on('getNotasRedis', () => {
-        // Envía los datos al cliente cuando lo solicita
-        sendNotasOfRedis();
-    });
-    socket.on('getNotasMysql', () => {
+    
+    socket.on('getNotas', () => {
         // Envía los datos al cliente cuando lo solicita
         sendNotasOfMysql();
+        sendNotasOfRedis();
     });
 });
 
 setInterval(sendNotasOfRedis, 500); 
-setInterval(sendNotasOfMysql, 2000);
+setInterval(sendNotasOfMysql, 500);
+
+//ping
+
+app.get('/ping', (req, res) => {
+    res.send('pong');
+}
+);
 
 
 

@@ -24,12 +24,12 @@ def generar_semestre():
 
 def generar_json():
     data = {
-        "Carnet": generar_carnet(),
-        "Nombre": generar_nombre(),
-        "Curso": generar_curso(),
-        "Nota": generar_nota(),
-        "Semestre": generar_semestre(),
-        "Year": 2023
+        "carnet": generar_carnet(),
+        "nombre": generar_nombre(),
+        "curso": generar_curso(),
+        "nota": generar_nota(),
+        "semestre": generar_semestre(),
+        "year": 2023
     }
     return data
 

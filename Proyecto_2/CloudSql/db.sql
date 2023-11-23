@@ -1,0 +1,15 @@
+CREATE DATABASE IF NOT EXISTS so1_pr2;
+
+USE so1_pr2;
+
+CREATE TABLE IF NOT EXISTS nota (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    carnet BIGINT NOT NULL,
+    anio INT NOT NULL,
+    nombre VARCHAR(255) NOT NULL,
+    curso VARCHAR(35) NOT NULL,
+    nota INT NOT NULL,
+    semestre VARCHAR(5) NOT NULL
+);
+
+SELECT * from nota;

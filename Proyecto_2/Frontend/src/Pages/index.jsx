@@ -5,7 +5,7 @@ import io from "socket.io-client";
 import Chart from 'chart.js/auto'; // Importa Chart.js
 import Lineal from '../Components/GraficaLinea';
 
-const socket = io("http://localhost:3001");
+const socket = io(`http://${import.meta.env.VITE_BACKEND_HOST}:${import.meta.env.VITE_BACKEND_PORT}`);
 
 function Index() {
   const aprobadosChart = useRef(null);
@@ -40,9 +40,12 @@ function Index() {
     }
     socket.emit("getNotas");
     console.log('Evento "notasMysql" emitido');
+    
+
+
+    
 
     socket.on("notasMysql", handleGetNotas);
-    console.log(notas);
     // Limpia la suscripción al desmontar el componente
 
     if (!initialized) {
@@ -78,6 +81,15 @@ function Index() {
   useEffect(() => {
     if (selectedSemestrePromedio) {
       const notasFiltradas = notas.filter((nota) => nota.semestre === selectedSemestrePromedio);
+
+      for (let i = 0; i < notasFiltradas.length; i++) {
+        const nota = notasFiltradas[i];
+        //Eliminar la nota si es menor a 61
+        if (nota.nota < 61) {
+          notasFiltradas.splice(i, 1);
+          i--;
+        }
+      }
       
       const carnetData = {};
       notasFiltradas.forEach((nota) => {

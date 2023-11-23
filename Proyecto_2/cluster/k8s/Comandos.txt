@@ -1,0 +1,9 @@
+#Obtenes namespaces
+
+kubectl get namespace
+
+#Crear namespace
+kubectl create ns so1p2
+
+#
+kubectl apply -f .

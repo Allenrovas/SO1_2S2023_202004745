@@ -1,0 +1,75 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: node-client
+  namespace: so1p2
+  labels:
+    app: node
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: node
+  template:
+    metadata:
+      labels:
+        app: node
+    spec:
+      containers:
+      - name: node
+        image: allenrovas/backend_pr2:1.1
+        imagePullPolicy: Always
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "150m"
+          limits:
+            memory: "256Mi"
+            cpu: "400m"
+        ports: 
+          - containerPort: 8000
+        env:
+        - name: MYSQL_USER
+          valueFrom:
+            secretKeyRef:
+              name: secret-node
+              key: MYSQL_USER
+        - name: MYSQL_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: secret-node
+              key: MYSQL_PASSWORD
+        - name: MYSQL_HOST
+          valueFrom:
+            secretKeyRef:
+              name: secret-node
+              key: MYSQL_HOST
+        - name: MYSQL_DATABASE
+          valueFrom:
+            secretKeyRef:
+              name: secret-node
+              key: MYSQL_DATABASE
+        - name: MYSQL_PORT
+          valueFrom:
+            secretKeyRef:
+              name: secret-node
+              key: MYSQL_PORT
+        - name: REDIS_HOST
+          valueFrom:
+            secretKeyRef:
+              name: secret-node
+              key: REDIS_HOST
+        - name: REDIS_PORT
+          valueFrom:
+            secretKeyRef:
+              name: secret-node
+              key: REDIS_PORT
+        - name: PORT
+          valueFrom:
+            secretKeyRef:
+              name: secret-node
+              key: PORT
+      imagePullSecrets:
+      - name: dockerhubpull
+
+    

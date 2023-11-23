@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"net"
+	"os"
 
 	pb "main/grpc-server"
 
@@ -35,11 +36,11 @@ type Data struct {
 
 func mysqlConnect() {
 	// Cambia las credenciales según tu configuración de MySQL
-	dbUser := "root"
-	dbPassword := "DARV02ag*"
-	dbHost := "35.231.250.238"
+	dbUser := os.Getenv("DB_USER")
+	dbPassword := os.Getenv("DB_PASSWORD")
+	dbHost := os.Getenv("DB_HOST")
 	dbPort := "3306"
-	dbName := "tarea7"
+	dbName := os.Getenv("DB_NAME")
 	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true", dbUser, dbPassword, dbHost, dbPort, dbName)
 
 	var err error
